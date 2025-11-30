@@ -16,3 +16,10 @@ realizado en python las aplicaciones de las condicionales en este lenguaje se ti
 (python) no existe en R.
 
 En cada ejercicio realizado se encontrara con una descipcion del problema a resolver en forma de comentario de codigo. 
+
+install.packages("tidyverse")   # Conjunto de paquetes para análisis de datos
+install.packages("ggplot2")     # Gráficos
+install.packages("dplyr")       # Manipulación de datos
+install.packages("readr")       # Importación de datos
+install.packages("data.table")  # Manejo eficiente de datos
+
