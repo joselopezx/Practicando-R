@@ -27,3 +27,10 @@ install.packages("readr")       # Importación de datos
 
 install.packages("data.table")  # Manejo eficiente de datos
 
+>.[!Note].
+>Aqui puedes descargar tanto el lenguaje R como Rstudio IDE para programar en este lenguaje.  
+>`R` -> https://cran.r-project.org/mirrors.html, selecciona la region donde te encuentres. 
+>`Rstudio` -> https://posit.co/download/rstudio-desktop/
+
+
+
